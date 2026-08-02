@@ -133,19 +133,19 @@
     <div class="photo-grid">
       <div class="photo-card">
         <!-- Ganti 'foto1.jpg' dengan nama file fotomu -->
-        <img src="foto1.jpg" alt="Kenangan 1">
+        <img src="e085eaedfd22024b24ca6a1766189716_0.jpeg" alt="Kenangan 1">
       </div>
       <div class="photo-card">
         <!-- Ganti 'foto2.jpg' dengan nama file fotomu -->
-        <img src="foto2.jpg" alt="Kenangan 2">
+        <img src="bc164bcf9e274738696001f0df26cd06_0.jpeg" alt="Kenangan 2">
       </div>
       <div class="photo-card">
         <!-- Ganti 'foto3.jpg' dengan nama file fotomu -->
-        <img src="foto3.jpg" alt="Kenangan 3">
+        <img src="IMG-20260710-WA0031.jpg" alt="Kenangan 3">
       </div>
       <div class="photo-card">
         <!-- Ganti 'foto4.jpg' dengan nama file fotomu -->
-        <img src="foto4.jpg" alt="Kenangan 4">
+        <img src="35e24f89c2d27cfa284b5c34d471b374_0.jpeg" alt="Kenangan 4">
       </div>
     </div>
 
